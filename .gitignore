@@ -1,0 +1,91 @@
+# Scrapy related
+scrapy.cfg
+job_scraper/.scrapy
+
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Virtual environment
+venv/
+*.egg-info/
+*.egg
+
+# IDE and editor files (if using VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# SQLite database files (if you're using a database)
+*.sqlite
+
+# Output files from scraping (JSON, CSV, etc.)
+*.json
+*.csv
+
+# Scrapy Spider PID files
+*.pid
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code workspace settings
+.vscode/
+
+# Jupyter Notebook configuration
+*.ipynb_convert.py
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.db
+*.sqlite3
+
+# Logs and other artifacts
+*.log
+*.txt
+*.out
+*.err
+
+# macOS system files
+.DS_Store
+
+# Plot images or other generated files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Cached files
+*.pkl
+*.joblib
+*.h5
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python virtual environment files
+Pipfile
+Pipfile.lock
+poetry.lock
